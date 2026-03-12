@@ -6,10 +6,10 @@ Project Proposal: https://docs.google.com/presentation/d/1XHd75_ruo-YQwBnqf4UF9h
 
 ## Prototype
 
-![Prototype UI](food-api/prototypeUI.png)
-![Prototype UI](food-api/UI2.png)
-![Prototype UI](food-api/UI3.png)
-![Prototype UI](food-api/UI4.png)
+![Prototype UI](food-api/prototype UI.jpg)
+![Prototype UI](food-api/UI 2.jpg)
+![Prototype UI](food-api/UI 3.jpg)
+![Prototype UI](food-api/UI 4.jpg)
 
 # Food API
 
