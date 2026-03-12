@@ -4,6 +4,13 @@ A simple Spring Boot REST API for managing SDOH (social determinant of health) f
 
 Project Proposal: https://docs.google.com/presentation/d/1XHd75_ruo-YQwBnqf4UF9hL2EryKeD-edgepYa8HMb8/edit?usp=sharing
 
+## Prototype
+
+![Prototype UI](food-api/prototypeUI.png)
+![Prototype UI](food-api/UI2.png)
+![Prototype UI](food-api/UI3.png)
+![Prototype UI](food-api/UI4.png)
+
 # Food API
 
 A simple Spring Boot REST API for managing food items.  
